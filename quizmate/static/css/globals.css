@@ -1,0 +1,15 @@
+/* These styles are generated from project.scss. */
+
+/* static/src/input.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,
+body,
+:root{
+    width: 100% !important;
+    height: 100% !important;
+}
